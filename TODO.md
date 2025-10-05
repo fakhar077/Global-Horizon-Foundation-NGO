@@ -7,6 +7,6 @@
 - [x] Execute `git branch -M main` to rename the current branch to main
 - [x] Execute `git remote add origin https://github.com/fakhar077/Global-Horizon-Foundation-NGO.git` to add the remote repository
 - [x] Execute `git push -u origin main` to push the commits to the remote main branch
-- [ ] Execute `git add .` to stage all project files
-- [ ] Execute `git commit -m "add project files"` to commit all files
-- [ ] Execute `git push` to push the new commit to GitHub
+- [x] Execute `git add .` to stage all project files
+- [x] Execute `git commit -m "add project files"` to commit all files
+- [x] Execute `git push` to push the new commit to GitHub
